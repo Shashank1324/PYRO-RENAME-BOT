@@ -28,11 +28,11 @@ class Config(object):
     # pyro client config
     API_ID    = os.environ.get("API_ID", "16621664")
     API_HASH  = os.environ.get("API_HASH", "8b283f2943729318995738b5963f0bcc")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6604259438:AAF71dmTKSWqFKohgkVZ1DNTNzO31S__aeM") 
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "6562786900:AAGygilZ4KFSMR3ibdPYySR5EG4t_MwNw9g") 
    
     # database config
     DB_NAME = os.environ.get("DB_NAME","pyro-botz")     
-    DB_URL  = os.environ.get("DB_URL","mongodb+srv://shashanklsm:shashank.ls1324@cluster0.bifxz5j.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp")
+    DB_URL  = os.environ.get("DB_URL","mongodb+srv://Shashanklsss:shashank.ls1324@cluster0.rpvm8q5.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp")
  
     # other configs
     BOT_UPTIME  = time.time()
